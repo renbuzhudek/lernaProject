@@ -3,5 +3,8 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.0"
+  },
+  "dependencies": {
+    "vuex": "^3.4.0"
   }
 }
