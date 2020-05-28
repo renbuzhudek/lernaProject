@@ -4,12 +4,19 @@ module.exports = moduleA;
 
 
 const moduleB = require('module-b');
-const moduleC = require('module-c');
+
+try {
+    const moduleC = require('module-c');
+  console.log(  moduleC())
+} catch (error) {
+    console.log(error);
+    
+}
 var moduleA = function() {
     console.log(moduleB());
 }
 
 moduleA()
-moduleC()
+
 
 // 优秀
