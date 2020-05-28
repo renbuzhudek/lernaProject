@@ -5,7 +5,7 @@
   "keywords": [
     "module-a"
   ],
-  "author": "renbuzhudek <464879673@qq.com>",
+  "author": "renbuzhudek",
   "homepage": "https://github.com/renbuzhudek",
   "license": "ISC",
   "main": "lib/module-a.js",
@@ -26,5 +26,5 @@
     "module-b": "^0.1.1",
     "vue": "^2.6.11"
   },
-  "gitHead": "157eb0e7a3e8f2f2256f56c11304c93a4fe150c5"
+  "gitHead": "103ef139790c40549c4931a8990c4012698d7623"
 }
