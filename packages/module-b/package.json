@@ -1,12 +1,12 @@
 {
   "name": "module-b",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "sss",
   "keywords": [
     "sss"
   ],
   "author": "郑治益 <464879673@qq.com>",
-  "homepage":"https://github.com/renbuzhudek",
+  "homepage": "https://github.com/renbuzhudek",
   "license": "ISC",
   "main": "lib/module-b.js",
   "directories": {
