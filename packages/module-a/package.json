@@ -1,6 +1,6 @@
 {
   "name": "module-a",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "module a ",
   "keywords": [
     "module-a"
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "module-b": "^0.0.3",
+    "module-b": "^0.0.4",
     "vue": "^2.6.11"
   },
   "gitHead": "7ef16ae2cf105f056001b1ec5b2a9904b46269c8"
