@@ -5,7 +5,7 @@
   "keywords": [
     "c"
   ],
-  "author": "郑治益 <464879673@qq.com>",
+  "author": "renbuzhudek <464879673@qq.com>",
   "homepage": "https://github.com/renbuzhudek/lernaProject#readme",
   "license": "ISC",
   "main": "lib/module-c.js",
@@ -29,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/renbuzhudek/lernaProject/issues"
   },
-  "gitHead": "6d42428cff78fb2a00d402cd1889e8a32595933c"
+  "gitHead": "157eb0e7a3e8f2f2256f56c11304c93a4fe150c5"
 }
