@@ -10,3 +10,5 @@ var moduleA = function() {
 }
 
 moduleA()
+
+// 优秀
